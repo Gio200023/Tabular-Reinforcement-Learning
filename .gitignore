@@ -6,3 +6,5 @@ __pycache__/
 
 # Pdf assignment
 RL_A1.pdf
+
+.DS_Store
