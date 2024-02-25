@@ -1,0 +1,8 @@
+# Reinforcement Learning files env
+rl1/
+
+# pycache
+__pycache__/
+
+# Pdf assignment
+RL_A1.pdf
